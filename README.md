@@ -1,6 +1,6 @@
 # Agente de IA para atendimento de imobiliária por e-mail (n8n)
 
-> 📚 **Projeto de estudo** desenvolvido acompanhando o curso **"Agentes de IA e n8n"** da **Hashtag Treinamentos**. A empresa "Nova Lar Imóveis" é fictícia e foi criada para o exercício.
+> 📚 **Projeto de estudo** desenvolvido. A empresa "Nova Lar Imóveis" é fictícia e foi criada para o exercício.
 
 Agente de IA no **n8n** que lê os e-mails de clientes interessados em imóveis, consulta a planilha de imóveis disponíveis, responde de forma personalizada e registra ou atualiza o cliente em uma planilha de leads (CRM).
 
